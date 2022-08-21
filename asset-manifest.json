@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/JuiceIt/static/css/main.a49dda05.css",
-    "main.js": "/JuiceIt/static/js/main.e507aa37.js",
+    "main.js": "/JuiceIt/static/js/main.54877ad6.js",
     "index.html": "/JuiceIt/index.html",
     "main.a49dda05.css.map": "/JuiceIt/static/css/main.a49dda05.css.map",
-    "main.e507aa37.js.map": "/JuiceIt/static/js/main.e507aa37.js.map"
+    "main.54877ad6.js.map": "/JuiceIt/static/js/main.54877ad6.js.map"
   },
   "entrypoints": [
     "static/css/main.a49dda05.css",
-    "static/js/main.e507aa37.js"
+    "static/js/main.54877ad6.js"
   ]
 }
