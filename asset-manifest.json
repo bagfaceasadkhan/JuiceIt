@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Juiceit/static/css/main.5b2a585e.css",
+    "main.js": "/Juiceit/static/js/main.e80d46a5.js",
+    "index.html": "/Juiceit/index.html",
+    "main.5b2a585e.css.map": "/Juiceit/static/css/main.5b2a585e.css.map",
+    "main.e80d46a5.js.map": "/Juiceit/static/js/main.e80d46a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2a585e.css",
+    "static/js/main.e80d46a5.js"
+  ]
+}
