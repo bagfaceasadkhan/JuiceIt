@@ -52,12 +52,12 @@ const Container = styled.div`
 
       .info {
         .header-container {
-          font-size: 20px;
+          font-size: 18px;
         }
         .subtext-container {
           margin-top: 10px;
           font-family: "Ubuntu", sans-serif;
-          font-size: 18px;
+          font-size: 15px;
         }
       }
     }

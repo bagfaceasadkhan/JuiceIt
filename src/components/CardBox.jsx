@@ -8,21 +8,21 @@ const CardBox = () => {
         <div className="card-one card">
           <div className="header">AboutUs</div>
           <div className="subinfo">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.
-            McClintock's eye for detail certainly helped narrow the whereabouts
-            of lorem ipsum's origin, however, the “how and when” still remain
-            something of a mystery, with competing theories and timelines.
+            Established in 1998, ‘JuiceIt’ Fit Food and Juice Bars is New York’s
+            unique juice, smoothie and sound cheap food retailer. Presently with
+            30 stores crosswise over US, we work irately to be steady
+            trailblazers and pioneers in good dieting, determined to enhance the
+            prosperity of groups and clients consistently!
           </div>
         </div>
         <div className="card-two card">
           <div className="header">OurStory</div>
           <div className="subinfo">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.
-            McClintock's eye for detail certainly helped narrow the whereabouts
-            of lorem ipsum's origin, however, the “how and when” still remain
-            something of a mystery, with competing theories and timelines.
+            Our journey started a couple years ago when we decided to start
+            juicing in our home. There is truly nothing like fresh pressed
+            juice, the taste is amazing, and the health benefits are endless.
+            Some people juice for the health benefits, yet others actually use
+            it to help battle health deficiencies.
           </div>
         </div>
         <div className="card-three card">

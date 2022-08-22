@@ -10,10 +10,10 @@ const Information = () => {
             THE BEST QUALITY JUICE EVER TASTED
           </div>
           <div className="subinfo-container">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
-            of using Lorem Ipsum is that it has a more-or-less normal
-            distribution of letters
+            Juice is a drink made from the extraction or pressing of the natural
+            liquid contained in fruit and vegetables. It can also refer to
+            liquids that are flavored with concentrate or other biological food
+            sources, such as meat or seafood, such as clam juice.
           </div>
           <div className="button-container">
             <button>JOIN US</button>
@@ -95,11 +95,11 @@ const Container = styled.div`
         height: 300px;
         .info-container {
           margin-top: 10px;
-          font-size: 20px;
+          font-size: 18px;
         }
         .subinfo-container {
           width: 100%;
-          font-size: 18px;
+          font-size: 16px;
           margin-top: 10px;
           text-align: center;
         }

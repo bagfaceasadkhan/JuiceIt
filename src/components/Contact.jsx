@@ -50,12 +50,12 @@ const Container = styled.div`
     width: 100%;
     height: 200px;
     .header {
-      font-size: 30px;
+      font-size: 18px;
     }
     .input {
       input[type="text"] {
         font-family: Ubuntu;
-        width: 400px;
+        width: 300px;
         height: 50px;
         border: none;
         outline: none;
@@ -63,7 +63,7 @@ const Container = styled.div`
     }
     .button {
       button {
-        width: 400px;
+        width: 300px;
         height: 50px;
         font-size: 20px;
         outline: none;

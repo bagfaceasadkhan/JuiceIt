@@ -6,26 +6,26 @@ const Catgories = () => {
       <div id="join" className="card-container">
         <div className="card">
           <div className="image-one"></div>
-          <div className="header">Cleanes</div>
+          <div className="header">Cleanses</div>
           <div className="subinfo">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.
+            A process or period of time during which a person attempts to rid
+            the body of substances regarded as toxic or unhealthy.
           </div>
         </div>
         <div className="card">
           <div className="image-two"></div>
           <div className="header">Juices</div>
           <div className="subinfo">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.
+            Juice is a drink made from the extraction or pressing of the natural
+            liquid contained in fruit and vegetables.
           </div>
         </div>
         <div className="card">
           <div className="image-three"></div>
           <div className="header">GreenTea</div>
           <div className="subinfo">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.
+            Green tea is made from the Camellia sinensis plant. Its dried leaves
+            and leaf buds are used to make several different teas.
           </div>
         </div>
       </div>

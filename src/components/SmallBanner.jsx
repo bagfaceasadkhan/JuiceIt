@@ -9,10 +9,9 @@ const SmallBanner = () => {
             If life gives you lemons, make fruit juice.
           </div>
           <div className="subinfo">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
-            of using Lorem Ipsum is that it has a more-or-less normal
-            distribution of letters.
+            It is a long established fact that juice is very healthy and
+            promotes good health and provides with various types of necessary
+            vitamins and mineralts that we miss every day.
           </div>
         </div>
       </div>
