@@ -6,7 +6,7 @@ const Banner = () => {
       <div id="home" className="banner-container">
         <div className="info">
           <div className="header-container">
-            MADE WITH LOVE SPECIALLY FOR YOU
+            MADE WITH LOVE SPECIALLY FOR YOU ❤
           </div>
           <div className="subtext-container">JUICE LYFE HEALTY LYFE</div>
         </div>
